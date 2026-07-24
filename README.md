@@ -4,6 +4,11 @@ Modern UI/UX design for a Pharmacy and Grocery Management System created in Figm
 
 A modern UI/UX design created in Figma for a Pharmacy & Grocery Management System.
 
+## Figma Design
+
+View the complete UI design here:
+https://www.figma.com/design/2Tp7pExrnKzmxrJRhv1SJE/PGMS?node-id=0-1&t=kGDu73bKytrSWbPc-1
+
 ## Features
 - 60+ UI screens
 - User-friendly interface
